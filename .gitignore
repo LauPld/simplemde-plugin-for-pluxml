@@ -1,0 +1,7 @@
+/data/
+/plugins/
+!/themes/defaut/
+/themes/
+.idea
+/.buildpath
+/.project
