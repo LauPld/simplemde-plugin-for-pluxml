@@ -4,4 +4,4 @@
 - All the rest of the files and directories are from the SimpleMDE solution.
 - Look at the files in the **master** branch.
 
-  ![simplemdme plugin](https://imgur.com/a/02WvnGD](https://i.imgur.com/4IO3PCJ.png)
+  ![simplemdme plugin](https://i.imgur.com/4IO3PCJ.png)
