@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[simplemde]]></title>
+	<author><![CDATA[Laurent Poulard]]></author>
+	<version>1.0</version>
+	<date>03/08/2024</date>
+	<site>https://lowtechweb.fr</site>
+	<description><![CDATA[Un éditeur en Markdown]]></description>
+	<scope>admin</scope>
+</document>
