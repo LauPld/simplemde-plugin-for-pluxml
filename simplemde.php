@@ -22,7 +22,7 @@ class simplemde extends plxPlugin {
                     element: document.getElementById("id_content"),
                     toolbar: ["bold", "italic", "heading", "|", "quote", "unordered-list", "ordered-list", "|", "link", "image", "|", "preview", "side-by-side", "fullscreen", "|", "guide"],
                     autosave: {
-                        enabled: true,
+                        enabled: false,
                         uniqueId: "id_content",
                         delay: 10000,
                     },
